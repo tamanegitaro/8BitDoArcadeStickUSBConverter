@@ -21,14 +21,14 @@ This project is 8BitDo Arcade Stick USB Converter based on GP2040-CE.
 Make sure to configure USB host appropriately
 
 To change mode, Hold Home + Start + Select and push button below.
-B1 : XBOX Original
-B2 : PC Engine Mini
-R2 : Neogeo mini
-L2 : EgretII mini
-B3 : PS3
-B4 : PS4
-R1 : PS CLASSIC
-L1 : Megadrive mini / Astrocity mini
+- B1 : XBOX Original
+- B2 : PC Engine Mini
+- R2 : Neogeo mini
+- L2 : EgretII mini
+- B3 : PS3
+- B4 : PS4
+- R1 : PS CLASSIC
+- L1 : Megadrive mini / Astrocity mini
 
  
   GP2040-CE (Community Edition) is a gamepad firmware for the Raspberry Pi Pico and other boards based on the RP2040 microcontrollers that combines multi-platform compatibility, low latency and a rich feature set to provide endless customization possibilities without sacrificing performance.
