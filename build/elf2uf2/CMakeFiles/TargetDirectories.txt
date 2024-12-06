@@ -1,0 +1,5 @@
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/elf2uf2/CMakeFiles/elf2uf2.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/elf2uf2/CMakeFiles/edit_cache.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

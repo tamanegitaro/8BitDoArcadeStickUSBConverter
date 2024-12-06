@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

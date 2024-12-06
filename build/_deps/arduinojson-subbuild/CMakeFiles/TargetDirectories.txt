@@ -1,0 +1,3 @@
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/_deps/arduinojson-subbuild/CMakeFiles/arduinojson-populate.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/_deps/arduinojson-subbuild/CMakeFiles/edit_cache.dir
+C:/Raspberrypi_Pico/GP2040-CE-0.7.10_USB_Convert/GP2040-CE/build/_deps/arduinojson-subbuild/CMakeFiles/rebuild_cache.dir
