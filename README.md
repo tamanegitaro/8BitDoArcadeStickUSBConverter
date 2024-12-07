@@ -87,6 +87,9 @@ Connect everything like this. Connect RP2040-Zero and OLED.
 Connect 2 22ohm registors and resettable fuse
 ![image](https://github.com/user-attachments/assets/19cc8427-b826-4b32-990f-3c574c0c0219)
 
+Use 4 screws and finish build.
+![GdE4uBPbsAAGPY7](https://github.com/user-attachments/assets/d93dedf1-becc-4b35-97bc-2e24a5b67b70)
+
 ## How to configure
 - Download build/GP2040-CE_0.7.10_WaveshareZero.uf2
 
