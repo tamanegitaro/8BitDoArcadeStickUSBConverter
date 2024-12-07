@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Multi-Platform Gamepad Firmware for RP2040
+  Multi-Platform Gamepad Firmware for RP2040 customized by tamanegi_taro
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/MiSTer%20latency-0.765%20ms-blue" />
 </p>
 
-<p>
 ##This project is 8BitDo Arcade Stick USB Converter based on GP2040-CE.
 
 ![GdE4uBRagAAjrmu](https://github.com/user-attachments/assets/8f999c09-cf4b-4efe-b427-e4e0749cce39)
@@ -37,6 +36,7 @@ To change mode, Hold Home + Start + Select and push button below.
 - L1 : Megadrive mini / Astrocity mini
 
 
+<p>
 
   GP2040-CE (Community Edition) is a gamepad firmware for the Raspberry Pi Pico and other boards based on the RP2040 microcontrollers that combines multi-platform compatibility, low latency and a rich feature set to provide endless customization possibilities without sacrificing performance.
 </p>
