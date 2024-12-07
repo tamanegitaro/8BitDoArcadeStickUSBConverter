@@ -22,9 +22,18 @@
 
 ![GdE4uBPbsAAGPY7](https://github.com/user-attachments/assets/d93dedf1-becc-4b35-97bc-2e24a5b67b70)
 
-Make sure to configure USB host appropriately.
+Connect 8BitDo arcade stick 2.4G USB dongle to 8BitDo Arcade Stick USB Converter.
+Connect 8BitDo Arcade Stick USB Converter to console.
+Set 8BitDo Arcade Stick to Nintendo Switch(S) mode and 2.4G wireless mode.
+For LS/DP/RS switch, make sure to set it as DP for mini console compatibility.
+For PS4 compatibility, you will need USB Hub(Experimental) and PS4/5 Authentication USB dongle.
 
-To change mode, Hold Home + Start + Select and push button below.
+Hotkeys:
+
+Hold S2 + B3 + B4 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-CE and connect it to your PC)
+Hold S1 + B3 + B4 5 seconds for Webconfig
+
+To change game mode, Hold Home + S1 + S2 and push button below.
 
 - B1 : XBOX Original
 - B2 : PC Engine Mini
@@ -34,6 +43,8 @@ To change mode, Hold Home + Start + Select and push button below.
 - B4 : PS4
 - R1 : PS CLASSIC
 - L1 : Megadrive mini / Astrocity mini
+
+![image](https://github.com/user-attachments/assets/06845183-13cd-4b73-b737-164304b0d408)
 
 ## Parts
 - RP2040-Zero * 1
@@ -52,6 +63,7 @@ https://ja.aliexpress.com/item/32996310793.html
 	- 6mm screws * 4
 	- 6mm/10mm spacer * 4
 
+https://amzn.asia/d/cy7spRY
 ![image](https://github.com/user-attachments/assets/bf3f8d46-e889-42cc-a2ff-971c7e933b27)
 ![image](https://github.com/user-attachments/assets/5368e390-aff6-470b-a425-a2c49e8c6c9d)
 
@@ -67,9 +79,51 @@ Choose your favorite color for your PCB board.
 ![image](https://github.com/user-attachments/assets/b81fccfb-73cd-471a-a642-94ddcbabce0a)
 
 ## Instruction to build USB converter
+Connect everything like this. Connect RP2040-Zero and OLED.
+![image](https://github.com/user-attachments/assets/4e1ea4ec-117e-4953-947c-8ed4af18fa94)
+
+Connect 2 22ohm registors and resettable fuse
+![image](https://github.com/user-attachments/assets/19cc8427-b826-4b32-990f-3c574c0c0219)
 
 ## How to configure
+- Download build/GP2040-CE_0.7.10_WaveshareZero.uf2
 
+- From GP2040-CE Releases, download flash_nuke.uf2 and force_webconfig.uf2
+[https://github.com/OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE/releases)
+
+- Hold BOOT button on RP2040-Zero and connect converter to your PC
+
+![image](https://github.com/user-attachments/assets/a7470a09-87fc-4a4f-8a5c-6625e546146e)
+
+- RPI-RP2 storage will be recognized(Bootsel mode). Copy flash_nuke.uf2 in RPI-RP2. This will initialize your RP2040 Zero.
+- RPI-RP2 storage will open again after initialization complete. Copy GP2040-CE_0.7.10_WaveshareZero.uf2.
+- Once copy complete, hold BOOT button on RP2040-Zero and reconnect converter to your PC.
+- RPI-RP2 storage will open again. Copy force_webconfig.uf2.
+- After copy, open web browser in your PC and open http://192.168.7.1
+
+![image](https://github.com/user-attachments/assets/f4345e02-e9cd-413c-9ad9-1b506f4f3db4)
+
+- Open configuration - Pin mapping
+- Delete all pin configurations as below and make sure to click save
+
+![image](https://github.com/user-attachments/assets/77f6c4ac-88ac-4161-a6d3-e56ae2a443e5)
+
+- Open configuration - Peripheral settings
+- Configure I2C and USB port as below and make sure to click save
+
+![image](https://github.com/user-attachments/assets/9aaf8120-6914-4593-a335-56cf9bb46022)
+
+- Open configuration - add-on configuration
+- Enable Keyboard/Mouse USB Host configuration and make sure to click save
+
+![image](https://github.com/user-attachments/assets/f0e1b5ea-e901-43e2-aefd-481a6b4df219)
+
+- Click Reboot - Controller and configuration is finished!
+
+
+## Known issue
+Joystick movement will be reflected to OLED animation but button movement will not be reflected to OLED animation.
+This issue is reported to GP2040-CE community so I hope it will be fixed in future.
 
 ## **************************************************
 
