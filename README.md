@@ -22,16 +22,16 @@
 
 ![GdE4uBPbsAAGPY7](https://github.com/user-attachments/assets/d93dedf1-becc-4b35-97bc-2e24a5b67b70)
 
-Connect 8BitDo arcade stick 2.4G USB dongle to 8BitDo Arcade Stick USB Converter.
-Connect 8BitDo Arcade Stick USB Converter to console.
-Set 8BitDo Arcade Stick to Nintendo Switch(S) mode and 2.4G wireless mode.
-For LS/DP/RS switch, make sure to set it as DP for mini console compatibility.
-For PS4 compatibility, you will need USB Hub(Experimental) and PS4/5 Authentication USB dongle.
+- Connect 8BitDo arcade stick 2.4G USB dongle to 8BitDo Arcade Stick USB Converter.
+- Connect 8BitDo Arcade Stick USB Converter to console.
+- Set 8BitDo Arcade Stick to Nintendo Switch(S) mode and 2.4G wireless mode.
+- For LS/DP/RS switch, make sure to set it as DP for mini console compatibility.
+- For PS4 compatibility, you will need USB Hub(Experimental) and PS4/5 Authentication USB dongle.
 
 Hotkeys:
 
-Hold S2 + B3 + B4 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-CE and connect it to your PC)
-Hold S1 + B3 + B4 5 seconds for Webconfig
+- Hold S2 + B3 + B4 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-CE and connect it to your PC)
+- Hold S1 + B3 + B4 5 seconds for Webconfig
 
 To change game mode, Hold Home + S1 + S2 and push button below.
 
