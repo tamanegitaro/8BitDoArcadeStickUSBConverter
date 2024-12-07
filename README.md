@@ -54,7 +54,7 @@ https://ja.aliexpress.com/item/1005007393402333.html
 https://ja.aliexpress.com/item/1005005967766159.html
 - USB A Type Standard Port Female PCB Mount Socket Connector Right Angle 4 Pin
 https://ja.aliexpress.com/item/1005004572352605.html
-- 1206 SMD PTC Resettable fuse 500MA 0.5A(Optional) * 1
+- 1206 SMD PTC Resettable fuse 500MA 0.5A * 1
 https://ja.aliexpress.com/item/1005004844581464.html
 - 1206 Resistor 22ohm * 2
 https://ja.aliexpress.com/item/32996310793.html
