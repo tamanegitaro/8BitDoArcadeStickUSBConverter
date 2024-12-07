@@ -47,6 +47,10 @@ To change game mode, Hold Home + S1 + S2 and push button below.
 
 ![image](https://github.com/user-attachments/assets/06845183-13cd-4b73-b737-164304b0d408)
 
+## Known issue
+- Joystick movement will be reflected to OLED animation but button movement will not be reflected to OLED animation. This is issue in Keyboard host add-on so I have reported it to GP2040-CE community. Hope it will be fixed soon.
+- After changing game mode, sometimes need to reboot USB converter and 8BitDo arcade stick to get it recognized.
+
 ## Parts
 - RP2040-Zero * 1
 https://ja.aliexpress.com/item/1005007393402333.html
@@ -130,11 +134,6 @@ Use 4 screws and finish build.
 ![image](https://github.com/user-attachments/assets/f0e1b5ea-e901-43e2-aefd-481a6b4df219)
 
 - Click Reboot - Controller and configuration is finished!
-
-
-## Known issue
-- Joystick movement will be reflected to OLED animation but button movement will not be reflected to OLED animation. This is issue in Keyboard host add-on so I have reported it to GP2040-CE community. Hope it will be fixed soon.
-- After changing game mode, sometimes need to reboot USB converter and 8BitDo arcade stick to get it recognized.
 
 ## **************************************************
 ## **************************************************
