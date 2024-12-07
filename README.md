@@ -26,6 +26,7 @@
 - Connect 8BitDo arcade stick 2.4G USB dongle to 8BitDo Arcade Stick USB Converter.
 - Connect 8BitDo Arcade Stick USB Converter to console.
 - Set 8BitDo Arcade Stick to Nintendo Switch(S) mode and 2.4G wireless mode.
+- Wait 4 seconds until 8BitDo Arcade Stick gets recognized by console.
 - For LS/DP/RS switch, make sure to set it as DP for mini console compatibility. You can also use LS/RS for Switch, PSx, and other consoles which utilizes LS/RS.
 - For PS4/PS5 compatibility, you will need USB Hub(Experimental) and PS4/5 Authentication USB dongle.
 
