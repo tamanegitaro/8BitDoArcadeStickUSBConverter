@@ -101,10 +101,10 @@ Use 4 screws and finish build.
 ![image](https://github.com/user-attachments/assets/a7470a09-87fc-4a4f-8a5c-6625e546146e)
 
 - RPI-RP2 storage will be recognized(Bootsel mode). Copy flash_nuke.uf2 in RPI-RP2. This will initialize your RP2040 Zero.
-- RPI-RP2 storage will open again after initialization complete. Copy GP2040-CE_0.7.10_WaveshareZero.uf2.
-- Once copy complete, hold BOOT button on RP2040-Zero and reconnect converter to your PC.
+- RPI-RP2 storage will open again after initialization is completed. Copy GP2040-CE_0.7.10_WaveshareZero.uf2.
+- Once copy is completed, hold BOOT button on RP2040-Zero and reconnect converter to your PC.
 - RPI-RP2 storage will open again. Copy force_webconfig.uf2.
-- After copy, open web browser in your PC and open http://192.168.7.1
+- After copy is completed, open web browser in your PC and open http://192.168.7.1
 
 ![image](https://github.com/user-attachments/assets/f4345e02-e9cd-413c-9ad9-1b506f4f3db4)
 
@@ -117,6 +117,12 @@ Use 4 screws and finish build.
 - Configure I2C and USB port as below and make sure to click save
 
 ![image](https://github.com/user-attachments/assets/9aaf8120-6914-4593-a335-56cf9bb46022)
+
+- Open configuration - Display configuration
+- Enable display and make sure to click save
+
+![image](https://github.com/user-attachments/assets/f96755a7-c6b7-4ad2-8962-634b86d1d05a)
+
 
 - Open configuration - add-on configuration
 - Enable Keyboard/Mouse USB Host configuration and make sure to click save
