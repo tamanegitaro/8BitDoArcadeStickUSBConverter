@@ -75,7 +75,7 @@ You can order PCB from elecrow - PCB Fab - Regular PCB(Online order)
 https://www.elecrow.com/pcb-manufacturing.html?from=nav/
 
 Download gerber/gerber.zip and upload it in elecrow PCB online order website.
-Choose your favorite color for your PCB board.
+Choose your favorite color for your PCB board. Choosing Lead free is optional(Good for your health for extra $2).
 
 ![image](https://github.com/user-attachments/assets/587bb9d1-a64b-44cc-9c59-435bd8d2bb5e)
 ![image](https://github.com/user-attachments/assets/b81fccfb-73cd-471a-a642-94ddcbabce0a)
