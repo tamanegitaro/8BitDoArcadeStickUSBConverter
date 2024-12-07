@@ -133,7 +133,7 @@ Use 4 screws and finish build.
 
 
 ## Known issue
-- Joystick movement will be reflected to OLED animation but button movement will not be reflected to OLED animation. This issue is reported to GP2040-CE community so I hope it will be fixed in future.
+- Joystick movement will be reflected to OLED animation but button movement will not be reflected to OLED animation. This is issue in Keyboard host add-on so I have reported it to GP2040-CE community. Hope it will be fixed soon.
 - After changing game mode, sometimes need to reboot USB converter and 8BitDo arcade stick to get it recognized.
 
 ## **************************************************
