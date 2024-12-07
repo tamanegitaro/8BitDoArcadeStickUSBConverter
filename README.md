@@ -35,6 +35,19 @@ To change mode, Hold Home + Start + Select and push button below.
 - R1 : PS CLASSIC
 - L1 : Megadrive mini / Astrocity mini
 
+## Instruction to build USB converter
+- RP2040-Zero * 1
+- 1.3" OLED Display Module SH1106 128X64 * 1
+- 1206 SMD PTC Resettable fuse 500MA 0.5A(Optional) * 1
+- 1206 Resistor 22ohm * 2
+- M3 Nylon screws nuts set
+-- nuts * 4
+-- 6mm screws * 4
+-- 6mm/10mm spacer * 4
+![image](https://github.com/user-attachments/assets/bf3f8d46-e889-42cc-a2ff-971c7e933b27)
+![image](https://github.com/user-attachments/assets/5368e390-aff6-470b-a425-a2c49e8c6c9d)
+-- PCB
+
 
 <p>
 
