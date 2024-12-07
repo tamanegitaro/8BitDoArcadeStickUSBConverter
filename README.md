@@ -35,18 +35,32 @@ To change mode, Hold Home + Start + Select and push button below.
 - R1 : PS CLASSIC
 - L1 : Megadrive mini / Astrocity mini
 
-## Instruction to build USB converter
+## Parts
 - RP2040-Zero * 1
 - 1.3" OLED Display Module SH1106 128X64 * 1
 - 1206 SMD PTC Resettable fuse 500MA 0.5A(Optional) * 1
 - 1206 Resistor 22ohm * 2
+- Some wires
 - M3 Nylon screws nuts set
--- nuts * 4
--- 6mm screws * 4
--- 6mm/10mm spacer * 4
+	- nuts * 4
+	- 6mm screws * 4
+	- 6mm/10mm spacer * 4
 ![image](https://github.com/user-attachments/assets/bf3f8d46-e889-42cc-a2ff-971c7e933b27)
 ![image](https://github.com/user-attachments/assets/5368e390-aff6-470b-a425-a2c49e8c6c9d)
--- PCB
+
+- PCB of GP2040-CE USB Converter 2.0
+
+You can order PCB from elecrow - PCB Fab - Regular PCB(Online order)
+https://www.elecrow.com/pcb-manufacturing.html?from=nav/
+
+Download gerber/gerber.zip and upload it in elecrow PCB online order website.
+Choose your favorite color for your PCB board.
+
+![image](https://github.com/user-attachments/assets/587bb9d1-a64b-44cc-9c59-435bd8d2bb5e)
+![image](https://github.com/user-attachments/assets/b81fccfb-73cd-471a-a642-94ddcbabce0a)
+
+## Instruction to build USB converter
+
 
 
 <p>
