@@ -62,7 +62,7 @@ https://ja.aliexpress.com/item/32996310793.html
 - M3 Nylon screws nuts set
 	- nuts * 4
 	- 6mm screws * 4
-	- 6mm/10mm spacer * 4
+	- 6mm/10mm male spacer * 4
 
 https://amzn.asia/d/cy7spRY
 
