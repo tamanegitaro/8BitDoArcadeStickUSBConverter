@@ -37,14 +37,21 @@ To change mode, Hold Home + Start + Select and push button below.
 
 ## Parts
 - RP2040-Zero * 1
+https://ja.aliexpress.com/item/1005007393402333.html
 - 1.3" OLED Display Module SH1106 128X64 * 1
+https://ja.aliexpress.com/item/1005005967766159.html
+- USB A Type Standard Port Female PCB Mount Socket Connector Right Angle 4 Pin
+https://ja.aliexpress.com/item/1005004572352605.html
 - 1206 SMD PTC Resettable fuse 500MA 0.5A(Optional) * 1
+https://ja.aliexpress.com/item/1005004844581464.html
 - 1206 Resistor 22ohm * 2
+https://ja.aliexpress.com/item/32996310793.html
 - Some wires
 - M3 Nylon screws nuts set
 	- nuts * 4
 	- 6mm screws * 4
 	- 6mm/10mm spacer * 4
+
 ![image](https://github.com/user-attachments/assets/bf3f8d46-e889-42cc-a2ff-971c7e933b27)
 ![image](https://github.com/user-attachments/assets/5368e390-aff6-470b-a425-a2c49e8c6c9d)
 
@@ -61,7 +68,10 @@ Choose your favorite color for your PCB board.
 
 ## Instruction to build USB converter
 
+## How to configure
 
+
+## **************************************************
 
 <p>
 
