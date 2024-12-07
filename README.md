@@ -31,7 +31,7 @@
 
 Hotkeys:
 
-- Hold S2 + B3 + B4 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-CE and connect it to your PC)
+- Hold S2 + B3 + B4 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-Zero and connect it to your PC)
 - Hold S1 + B3 + B4 5 seconds for Webconfig
 
 To change game mode, Hold Home + S1 + S2 and push button below.
