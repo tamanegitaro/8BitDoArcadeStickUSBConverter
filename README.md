@@ -1,3 +1,6 @@
+This is OLD Firmware. Move on to new 8BitDo Arcade Stick USB Convert 2
+
+
 <p align="center">
   <a href="https://gp2040-ce.info">
     <img alt="GP2040-CE" src="https://raw.githubusercontent.com/OpenStickCommunity/Site/main/docs/assets/images/gp2040-ce-logo.png" />
